@@ -1,1 +1,2 @@
 Testing collaborator write access
+Testing push after access removal
